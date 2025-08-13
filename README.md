@@ -1,4 +1,1 @@
 # my_2nd_repository
-
-
-
